@@ -1,0 +1,7 @@
+Market regulators can create a market and list a contract on it 
+Market traders can register to trade on a market
+Market regulators can write the terms of a contract and list it on a market for traders to bid/offer
+Market traders can delist a contract to prevent further trading in it
+
+Contracts have an expiry
+
