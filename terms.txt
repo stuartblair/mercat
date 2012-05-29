@@ -1,0 +1,9 @@
+Exchange - a publicly visible space showing the current Bid, Offer, and LastTrade prices of related Options
+Option - a financial contract between two Traders which provides exposure to the future performance of an underlying entity
+OptionContract - an 
+Bid - an Order raised by a Trader with the intention of obtaining a quantity of Options from one or more Traders at a specified price
+Offer - an Order raised by a Trader with the intention of relieving themselves of a quantity of OptionContracts to one or more Traders at a specified price
+LastTrade - the most recent price at which a particular OptionContract exchanged hands
+Call - an Option that provides the Holder with the right to receive a sum dictated in the event that the Strike metric of the OptionContract is greater than the Spot metric of the Underlying
+Put - an Option that provides the Holder with the right to receive a sum dictated in the 
+OptionChain - a family of OptionContracts
